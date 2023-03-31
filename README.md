@@ -9,6 +9,8 @@
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+   <a href="https://redux.js.org/"><img align="left" alt="Redux" title="Redux JS" width="21px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" /></a>
+  <br>
   <br>
   <br>
   
