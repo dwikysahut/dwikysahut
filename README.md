@@ -1,10 +1,14 @@
-readme.md
-- 👋 Hi, I’m @dwikysahut
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning fullstack development
-- 📫 How to reach me just email me on dwikysahut@gmail.com
+# Dwiky Sahut
 
-### Tech Stack
+👋 Full Stack Developer | Cloud & DevOps Enthusiast | Open Source Contributor
+
+🚀 Passionate about building scalable web applications and exploring emerging technologies
+
+💡 Specializing in modern JavaScript/TypeScript ecosystems, mobile development, and cloud-native infrastructure
+
+📧 Get in touch: [dwikysahut@gmail.com](mailto:dwikysahut@gmail.com)
+
+## 🛠️ Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
@@ -51,14 +55,14 @@ readme.md
 </p>
   <br>
   <br>
-### :thinking: I want to learn:
+## 📚 Currently Exploring
 
-- GraphQL
-- Tensor Flow
-- Advanced Kubernetes clustering
-- Microservices Architecture
-- Real-time Socket optimization
-- WebSocket scalability
+- **GraphQL** - Advanced query optimization & federation patterns
+- **Machine Learning** - TensorFlow & deep learning architectures
+- **Kubernetes** - Advanced clustering, orchestration & service mesh
+- **Microservices** - Distributed architecture patterns & design practices
+- **Real-time Systems** - WebSocket optimization & high-scale connectivity
+- **Cloud Infrastructure** - Multi-cloud deployment & automation strategies
 <!---
 dwikysahut/dwikysahut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
