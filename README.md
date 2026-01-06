@@ -1,3 +1,4 @@
+readme.md
 - 👋 Hi, I’m @dwikysahut
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning fullstack development
@@ -12,6 +13,12 @@
     <a href="https://expressjs.com/"><img align="left" alt="Express" title="Express (NodeJS HTTP Framework)" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
    <a href="https://redux.js.org/"><img align="left" alt="Redux" title="Redux JS" width="21px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" /></a>
+  <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></a>
+  <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>
+  <a href="https://dotnet.microsoft.com/"><img align="left" alt=".NET" title=".NET" width="21px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" /></a>
+  <a href="https://www.docker.com/"><img align="left" alt="Docker" title="Docker" width="21px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" /></a>
+  <a href="https://firebase.google.com/"><img align="left" alt="Firebase" title="Firebase" width="21px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
+  <a href="https://kubernetes.io/"><img align="left" alt="Kubernetes" title="Kubernetes" width="21px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /></a>
   <br>
   <p align="left">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
@@ -46,10 +53,12 @@
   <br>
 ### :thinking: I want to learn:
 
-- Next.js
 - GraphQL
-- Docker
 - Tensor Flow
+- Advanced Kubernetes clustering
+- Microservices Architecture
+- Real-time Socket optimization
+- WebSocket scalability
 <!---
 dwikysahut/dwikysahut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
