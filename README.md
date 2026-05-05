@@ -58,9 +58,11 @@ Passionate about building scalable applications, crafting clean architecture, an
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dwikysahut&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwikysahut&layout=compact&theme=algolia"/>
+<p align="left">
+<a href="https://github.com/dwikysahut">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dwikysahut&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dwikysahut&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ---
